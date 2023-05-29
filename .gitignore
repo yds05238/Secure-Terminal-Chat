@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+
+## Added 
+.DS_Store
+.vscode
+./chat 
